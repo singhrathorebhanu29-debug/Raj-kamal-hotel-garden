@@ -1,0 +1,6 @@
+{
+  "name": "Raj Kamal Hotel & Garden",
+  "description": "Comfortable 3-Star Hotel in Gwalior offering AC Luxury Rooms, in-house dining, and warm hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

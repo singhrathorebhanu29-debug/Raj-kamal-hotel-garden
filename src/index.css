@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-cinzel: "Cinzel", serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --color-gold: #c5a059;
+  --color-gold-hover: #b38e46;
+  --color-gold-light: #dfc287;
+  --color-sand: #f4efe8;
+  --color-surface: #141618;
+  --color-surface-card: #1b1e22;
+  --color-surface-elevated: #24282e;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+.font-cinzel {
+  font-family: var(--font-cinzel);
+}
